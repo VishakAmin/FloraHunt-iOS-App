@@ -11,7 +11,7 @@ Hardware Requirements
  
     Requires iOS -11.0 or later.
 
-    Requires Xcode-9 or above.
+    Requires Xcode-9  or above.
 
     Requires swift 4 or above for better compatib
 # Screenshots
